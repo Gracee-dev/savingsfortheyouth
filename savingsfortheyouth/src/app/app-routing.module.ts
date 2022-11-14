@@ -4,6 +4,7 @@ import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 import { PagenotfoundComponent } from './components/pagenotfound/pagenotfound.component';
 import { RegisterComponent } from './components/register/register.component';
+import { ServicesComponent } from './components/services/services.component';
 
 const routes: Routes = [
   {
@@ -25,6 +26,9 @@ const routes: Routes = [
   },{
     path: '**',
     component: PagenotfoundComponent
+  },{
+    path: "services",
+    component: ServicesComponent
   }
 ];
 
