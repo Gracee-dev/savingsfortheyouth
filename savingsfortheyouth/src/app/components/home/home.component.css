@@ -26,3 +26,9 @@
   color: black;
   align-items: center;
 }
+.card-text {
+  font-weight: 300;
+  font-size: small;
+  font-family: 'Lato';
+  color: black;
+}
