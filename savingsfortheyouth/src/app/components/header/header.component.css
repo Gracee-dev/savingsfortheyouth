@@ -13,3 +13,7 @@
 .dropdown-toggle {
   outline: 0;
 }
+
+nav.bg-primary {
+  font-family: 'Times New Roman', Times, serif;
+}
