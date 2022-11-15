@@ -11,3 +11,6 @@ a.btn {
   min-width: 18rem;
   min-height: 20rem;
 }
+.card-body:hover {
+  color: magenta;
+}
