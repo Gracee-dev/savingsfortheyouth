@@ -15,9 +15,9 @@ a.btn {
   color: magenta;
 }
 .card-body>img:hover{
-  background-color: goldenrod;
+  color-scheme: azure;
 }
 .card-body>img {
-  padding: 15px;
+  padding: 20px;
   max-height:30rem;
 }
