@@ -7,7 +7,8 @@ import {
   SupabaseClient,
   User,
 } from '@supabase/supabase-js'
-import { environment } from 'src/environments/environment.prod'
+// import { environment } from 'src/environments/environment.prod'
+import { environment } from '../../environments/enviroments.ts';
 // import { Database } from 'src/schema'
 
 export interface Profile {
