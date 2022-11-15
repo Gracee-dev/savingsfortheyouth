@@ -4,3 +4,9 @@
 a.btn {
   color:black;
 }
+.card {
+  border:none;
+  padding: 5px;
+  margin: 2px;
+  min-width: 18rem;
+}
