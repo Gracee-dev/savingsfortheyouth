@@ -16,4 +16,6 @@ a.btn {
 }
 .card-body>img:hover{
   background-color: goldenrod;
+  position: inherit;
+  height: auto;
 }
