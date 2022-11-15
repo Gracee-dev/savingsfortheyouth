@@ -14,3 +14,6 @@ a.btn {
 .card-body:hover {
   color: magenta;
 }
+.card-body>img:hover{
+  background-color: goldenrod;
+}
