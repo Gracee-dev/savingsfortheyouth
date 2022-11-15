@@ -1,0 +1,14 @@
+.container.h25 {
+    background-color: blue;
+    color: white ;
+    font-family: 'Lato', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 600;
+}
+.router {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: 600;
+
+}
