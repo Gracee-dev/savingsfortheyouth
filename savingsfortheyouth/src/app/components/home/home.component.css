@@ -6,7 +6,7 @@
   border:none;
   padding: 5px;
   margin: 10px;
-  min-width: fit-content;
+  min-width: 10rem;
   min-height: 10rem;
 }
 .card-body:hover {
