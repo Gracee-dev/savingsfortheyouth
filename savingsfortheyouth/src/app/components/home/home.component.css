@@ -1,17 +1,3 @@
-.carousel {
-  /* max-height: 400px; */
-  padding: auto;
-  margin: 10px 2px;
-  border: none;
-}
-.texts {
-  font-weight: 800 brighter;
-  font-size: 72pt;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: black;
-  /* background-color: blue; */
-}
-.row {
-  margin: 10px 2px;
-  padding: 2px;
+.cover-container {
+  background: gray;
 }
