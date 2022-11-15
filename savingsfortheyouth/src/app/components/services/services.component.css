@@ -1,3 +1,4 @@
 .contacts {
-    background-color: blue;
+    position: static;
+    max-height: 10rem;
 }
