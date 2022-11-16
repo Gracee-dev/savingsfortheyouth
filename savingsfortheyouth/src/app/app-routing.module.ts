@@ -24,9 +24,6 @@ const routes: Routes = [
     path: 'register',
     component: RegisterComponent,
   },{
-    path: '**',
-    component: PagenotfoundComponent
-  },{
     path: "services",
     component: ServicesComponent
   }
