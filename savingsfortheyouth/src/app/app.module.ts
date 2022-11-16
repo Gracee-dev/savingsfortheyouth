@@ -13,6 +13,7 @@ import { RegisterComponent } from './components/register/register.component';
 import { LoginComponent } from './components/login/login.component';
 import { PagenotfoundComponent } from './components/pagenotfound/pagenotfound.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { FooterComponent } from './components/footer/footer.component';
 import { ServicesComponent } from './components/services/services.component';
 
@@ -30,7 +31,8 @@ import { ServicesComponent } from './components/services/services.component';
   imports: [
     BrowserModule,
     ReactiveFormsModule,
-
+    FontAwesomeModule,
+    
     FormsModule,
     AppRoutingModule
   ],
