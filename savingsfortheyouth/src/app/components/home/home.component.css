@@ -1,3 +1,8 @@
+.cards {
+  animation: animate__fadeInDownBig;
+  animation-duration: 3s;
+  
+}
 .card {
   border:none;
   padding: 5px;
